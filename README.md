@@ -28,17 +28,6 @@
 
 ---
 
-## 📸 Preview
-
-<div align="center">
-
-| 🌙 Dark Mode | ☀️ Light Mode |
-|:---:|:---:|
-| <img src="https://placehold.co/480x280/0f2027/64ffda?text=🌀+Dark+Mode&font=playfair-display" width="420"/> | <img src="https://placehold.co/480x280/dbeafe/0077b6?text=☀️+Light+Mode&font=playfair-display" width="420"/> |
-
-</div>
-
----
 
 ## ✨ Features
 
